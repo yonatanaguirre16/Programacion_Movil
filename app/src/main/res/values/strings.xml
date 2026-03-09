@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="title_activity_app_navigation">AppNavigation</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+</resources>
